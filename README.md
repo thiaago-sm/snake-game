@@ -8,7 +8,7 @@ Criar uma cobrinha autônoma que aprende a se mover em direção a frutas verdes
 
 ---
 
-## 🧠 Inteligência Artificial 
+## 🧠 Inteligência Artificial
 
 - **Algoritmo**: Deep Q-Learning (DQN) com TensorFlow.js.
 - **Entradas (estado)**:
